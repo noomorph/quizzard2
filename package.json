@@ -16,7 +16,7 @@
     "flux": "2.0.3",
     "front-matter": "1.0.0",
     "jade": "1.10.0",
-    "lodash": "3.9.3",
+    "lodash": "4.17.15",
     "normalize.css": "3.0.3",
     "react": "0.13.3",
     "source-map-support": "0.3.1",
